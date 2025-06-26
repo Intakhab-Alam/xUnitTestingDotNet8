@@ -1,10 +1,14 @@
 # Ignore Visual Studio files
 .vs/
 .vscode/
+*.vsidx
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
+
+# Specifically ignore *.vsidx in the .vs folder
+.vs/**/*.vsidx
 
 # Ignore build files
 bin/
