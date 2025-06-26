@@ -8188,11 +8188,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.Tests\\ProductCatalog.Tests.csproj",
+      "projectUniqueName": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.Tests\\ProductCatalog.Tests.csproj",
       "projectName": "ProductCatalog.Tests",
-      "projectPath": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.Tests\\ProductCatalog.Tests.csproj",
+      "projectPath": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.Tests\\ProductCatalog.Tests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.Tests\\obj\\",
+      "outputPath": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8213,8 +8213,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\ProductCatalog.API.csproj": {
-              "projectPath": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\ProductCatalog.API.csproj"
+            "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\ProductCatalog.API.csproj": {
+              "projectPath": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\ProductCatalog.API.csproj"
             }
           }
         }
