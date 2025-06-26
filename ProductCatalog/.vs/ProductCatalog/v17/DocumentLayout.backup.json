@@ -1,57 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Dot Net Core\\Product\\ProductCatalog\\",
+  "WorkspaceRootPath": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.api\\dtos\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\dtos\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\productcatalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\productcatalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.api\\dtos\\orderitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\dtos\\orderitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.api\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.api\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\dtos\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\dtos\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\dtos\\orderitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\dtos\\orderitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.api\\productcatalog.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\productcatalog.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\productcatalog.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CAF4AA8-6345-4E99-A761-3AE992D7BF55}|ProductCatalog.Tests\\ProductCatalog.Tests.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CAF4AA8-6345-4E99-A761-3AE992D7BF55}|ProductCatalog.Tests\\ProductCatalog.Tests.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CAF4AA8-6345-4E99-A761-3AE992D7BF55}|ProductCatalog.Tests\\ProductCatalog.Tests.csproj|solutionrelative:productcatalog.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,176 +98,280 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderResponseDTO.cs",
-              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderResponseDTO.cs",
-              "RelativeDocumentMoniker": "ProductCatalog.API\\DTOs\\OrderResponseDTO.cs",
-              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderResponseDTO.cs",
-              "RelativeToolTip": "ProductCatalog.API\\DTOs\\OrderResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T06:42:32.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderItemResponseDTO.cs",
-              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderItemResponseDTO.cs",
-              "RelativeDocumentMoniker": "ProductCatalog.API\\DTOs\\OrderItemResponseDTO.cs",
-              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderItemResponseDTO.cs",
-              "RelativeToolTip": "ProductCatalog.API\\DTOs\\OrderItemResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T06:41:07.177Z",
+              "WhenOpened": "2025-06-26T09:38:39.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderCreateDTO.cs",
-              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderCreateDTO.cs",
-              "RelativeDocumentMoniker": "ProductCatalog.API\\DTOs\\OrderCreateDTO.cs",
-              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderCreateDTO.cs",
-              "RelativeToolTip": "ProductCatalog.API\\DTOs\\OrderCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T06:39:14.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderItemDTO.cs",
-              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderItemDTO.cs",
-              "RelativeDocumentMoniker": "ProductCatalog.API\\DTOs\\OrderItemDTO.cs",
-              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderItemDTO.cs",
-              "RelativeToolTip": "ProductCatalog.API\\DTOs\\OrderItemDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T06:29:45.19Z",
+              "DocumentIndex": 0,
+              "Title": "ProductCatalog.API",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\ProductCatalog.API.csproj",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\ProductCatalog.API.csproj",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\ProductCatalog.API.csproj",
+              "RelativeToolTip": "ProductCatalog.API\\ProductCatalog.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T09:38:10.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "ProductCatalog.API\\Models\\OrderItem.cs",
-              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Models\\OrderItem.cs",
-              "RelativeToolTip": "ProductCatalog.API\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T06:17:41.955Z",
+              "WhenOpened": "2025-06-26T09:35:27.809Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:11:38.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:59:43.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:58:39.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:57:56.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:47:08.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderResponseDTO.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderResponseDTO.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\DTOs\\OrderResponseDTO.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderResponseDTO.cs",
+              "RelativeToolTip": "ProductCatalog.API\\DTOs\\OrderResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:42:32.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItemResponseDTO.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderItemResponseDTO.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\DTOs\\OrderItemResponseDTO.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderItemResponseDTO.cs",
+              "RelativeToolTip": "ProductCatalog.API\\DTOs\\OrderItemResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:41:07.177Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Models\\Order.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\Order.cs",
               "RelativeDocumentMoniker": "ProductCatalog.API\\Models\\Order.cs",
-              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Models\\Order.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\Order.cs",
               "RelativeToolTip": "ProductCatalog.API\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T06:16:30.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "ProductCatalog.API\\Models\\Customer.cs",
-              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Models\\Customer.cs",
-              "RelativeToolTip": "ProductCatalog.API\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T06:15:19.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ProductCatalog.API\\Models\\Product.cs",
-              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Models\\Product.cs",
-              "RelativeToolTip": "ProductCatalog.API\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T06:13:29.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\appsettings.json",
-              "RelativeDocumentMoniker": "ProductCatalog.API\\appsettings.json",
-              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\appsettings.json",
-              "RelativeToolTip": "ProductCatalog.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-26T06:07:05.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductCatalog.API.http",
-              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\ProductCatalog.API.http",
-              "RelativeDocumentMoniker": "ProductCatalog.API\\ProductCatalog.API.http",
-              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\ProductCatalog.API.http",
-              "RelativeToolTip": "ProductCatalog.API\\ProductCatalog.API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-06-26T06:06:50.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T07:23:15.428Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "OrderCreateDTO.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderCreateDTO.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\DTOs\\OrderCreateDTO.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderCreateDTO.cs",
+              "RelativeToolTip": "ProductCatalog.API\\DTOs\\OrderCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:39:14.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\DTOs\\OrderItemDTO.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderItemDTO.cs",
+              "RelativeToolTip": "ProductCatalog.API\\DTOs\\OrderItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:29:45.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\OrderItem.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:17:41.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Models\\Customer.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\Customer.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:15:19.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Models\\Product.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\Product.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:13:29.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\appsettings.json",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\appsettings.json",
+              "RelativeToolTip": "ProductCatalog.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T06:07:05.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductCatalog.API.http",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\ProductCatalog.API.http",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\ProductCatalog.API.http",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\ProductCatalog.API.http",
+              "RelativeToolTip": "ProductCatalog.API\\ProductCatalog.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-26T06:06:50.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.Tests\\UnitTest1.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "ProductCatalog.Tests\\UnitTest1.cs",
-              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.Tests\\UnitTest1.cs",
               "RelativeToolTip": "ProductCatalog.Tests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T06:03:32.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T06:03:32.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "ProductCatalog.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "ProductCatalog.API\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T05:52:18.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T05:52:18.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Program.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Program.cs",
               "RelativeDocumentMoniker": "ProductCatalog.API\\Program.cs",
-              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Program.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Program.cs",
               "RelativeToolTip": "ProductCatalog.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T05:46:49.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T05:46:49.974Z"
             }
           ]
         }

@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\xunittestingdotnet8\\productcatalog\\productcatalog.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,37 +90,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:35:27.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:11:38.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:59:43.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:58:39.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:57:56.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "ProductCatalog.API\\Repositories\\IOrderRepository.cs",
               "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Repositories\\IOrderRepository.cs",
               "RelativeToolTip": "ProductCatalog.API\\Repositories\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T07:47:08.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ProductCatalog.API\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ProductCatalog.API\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T07:23:15.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "OrderResponseDTO.cs",
               "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderResponseDTO.cs",
               "RelativeDocumentMoniker": "ProductCatalog.API\\DTOs\\OrderResponseDTO.cs",
@@ -108,12 +180,11 @@
               "RelativeToolTip": "ProductCatalog.API\\DTOs\\OrderResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T06:42:32.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T06:42:32.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "OrderItemResponseDTO.cs",
               "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderItemResponseDTO.cs",
               "RelativeDocumentMoniker": "ProductCatalog.API\\DTOs\\OrderItemResponseDTO.cs",
@@ -125,7 +196,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Models\\Order.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\Order.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:16:30.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:23:15.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "OrderCreateDTO.cs",
               "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderCreateDTO.cs",
               "RelativeDocumentMoniker": "ProductCatalog.API\\DTOs\\OrderCreateDTO.cs",
@@ -137,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "OrderItemDTO.cs",
               "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\DTOs\\OrderItemDTO.cs",
               "RelativeDocumentMoniker": "ProductCatalog.API\\DTOs\\OrderItemDTO.cs",
@@ -149,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "ProductCatalog.API\\Models\\OrderItem.cs",
@@ -161,19 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "ProductCatalog.API\\Models\\Order.cs",
-              "ToolTip": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\Order.cs",
-              "RelativeToolTip": "ProductCatalog.API\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T06:16:30.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "ProductCatalog.API\\Models\\Customer.cs",
@@ -185,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ProductCatalog.API\\Models\\Product.cs",
@@ -197,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\appsettings.json",
               "RelativeDocumentMoniker": "ProductCatalog.API\\appsettings.json",
@@ -209,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "ProductCatalog.API.http",
               "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\ProductCatalog.API.http",
               "RelativeDocumentMoniker": "ProductCatalog.API\\ProductCatalog.API.http",
@@ -221,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "ProductCatalog.Tests\\UnitTest1.cs",
@@ -233,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "ProductCatalog.API\\Controllers\\WeatherForecastController.cs",
@@ -245,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Dot Net Core\\xUnitTestingDotNet8\\ProductCatalog\\ProductCatalog.API\\Program.cs",
               "RelativeDocumentMoniker": "ProductCatalog.API\\Program.cs",
