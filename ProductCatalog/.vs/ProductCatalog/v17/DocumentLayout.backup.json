@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net Core\\Product\\ProductCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|d:\\dot net core\\product\\productcatalog\\productcatalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054633D2-5474-437F-8DB1-7219D4A45E81}|ProductCatalog.API\\ProductCatalog.API.csproj|solutionrelative:productcatalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:52:18.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.API\\Program.cs",
+              "ToolTip": "D:\\Dot Net Core\\Product\\ProductCatalog\\ProductCatalog.API\\Program.cs",
+              "RelativeToolTip": "ProductCatalog.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:46:49.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
